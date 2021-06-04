@@ -1,0 +1,1 @@
+Para Deily y su Novio Alex(OKNO XD). Aquí tienen el bot, costo media hora hacerlo por que la maldita documentación esta desactualizada, csms. Como sea, para añadir frases vayan a phrases.json y ahi la añaden, no olviden incluir {member} ya que es el prefijo que será remplazado por el nombre del miembro
